@@ -3,7 +3,7 @@ import React from 'react'
 const navbar = () => {
   return (
     <div>
-      <h3>Louis.W</h3>
+      <h3 class="flex justify-center">Louis.W</h3>
     </div>
   )
 }
