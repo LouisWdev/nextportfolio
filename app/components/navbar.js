@@ -1,7 +1,9 @@
 const navbar = () => {
   return (
     <div className="flex text-center">
-      <h3>Louis.W</h3>
+      <button>Home</button>
+      <button>Contact</button>
+      <button>Projects</button>
     </div>
   )
 }
