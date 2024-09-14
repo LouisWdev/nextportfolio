@@ -5,6 +5,7 @@ const navbar = () => {
       
       <button>Contact</button>
       <button>Projects</button>
+      <button>About Me</button>
     </div>
   )
 }
