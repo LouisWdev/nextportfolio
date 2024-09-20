@@ -3,7 +3,9 @@ import React from 'react'
 const Contact = () => {
   return (
     <form>
-      <FormData></FormData>
+      <FormData>Email</FormData>
+      <FormData>Name</FormData>
+      <FormData>Company</FormData>
     </form>
   )
 }
