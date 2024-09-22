@@ -6,6 +6,8 @@ const Contact = () => {
       <FormData>Email</FormData>
       <FormData>Name</FormData>
       <FormData>Company</FormData>
+      
+      <button>Submit</button>
     </form>
   )
 }
