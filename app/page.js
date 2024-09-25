@@ -5,6 +5,7 @@ import Footer from './components/footer';
 // PAGES
 import Main from './Pages/Main';
 import Portfolio from './Pages/Portfolio';
+import About from './Pages/About';
 import Contact from './Pages/Contact';
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <Navbar />
          <Main />
          <Portfolio />
+         <About />
          <Contact />
       <Footer />
     </div>
