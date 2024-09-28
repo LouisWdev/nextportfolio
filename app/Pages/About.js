@@ -5,7 +5,7 @@ const About = () => {
     <>
       <h2>The about me page</h2>
         <h3>Why I started coding</h3>
-        <p></p>
+        <p>The reason why I started is because of interests and other factors.</p>
     </>
   )
 }
