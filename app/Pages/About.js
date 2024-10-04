@@ -12,6 +12,7 @@ const About = () => {
         <p>I have a large interest in AI research. Because it is our future.</p>
 
         <h3>Web Development</h3>
+        <h4>When ?</h4>
         <p>I started this journey. From a very young age</p>
     </>
   )
