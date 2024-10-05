@@ -14,6 +14,8 @@ const About = () => {
         <h3>Web Development</h3>
         <h4>When ?</h4>
         <p>I started this journey. From a very young age</p>
+
+        <h3>Responsive Web Design Journey</h3>
     </>
   )
 }
