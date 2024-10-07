@@ -16,6 +16,7 @@ const About = () => {
         <p>I started this journey. From a very young age</p>
 
         <h3>Responsive Web Design Journey</h3>
+        {/* Text comes here  */}
     </>
   )
 }
