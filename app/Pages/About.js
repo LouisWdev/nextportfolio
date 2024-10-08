@@ -14,9 +14,10 @@ const About = () => {
         <h3>Web Development</h3>
         <h4>When ?</h4>
         <p>I started this journey. From a very young age</p>
+        {/* Write here when I started */}
 
         <h3>Responsive Web Design Journey</h3>
-        {/* Text comes here  */}
+        {/* Write the responsive web design  */}
     </>
   )
 }
