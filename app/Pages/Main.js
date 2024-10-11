@@ -6,7 +6,7 @@ const Main = () => {
     <h1>Welcome to my portfolio</h1>
     <h2>Feel free to look around my portfolio !</h2>
 
-    <PortfolioButton></PortfolioButton>
+    <PortfolioButton>Go to Portfolio</PortfolioButton>
   </>
   )
 }
@@ -14,5 +14,5 @@ const Main = () => {
 export default Main
 
 const PortfolioButton = styled.button`
-
+  
 `;
