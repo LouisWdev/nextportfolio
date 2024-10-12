@@ -13,6 +13,6 @@ const Main = () => {
 
 export default Main
 
-const PortfolioButton = styled.button`
-  
-`;
+const PortfolioButton = styled.button``;
+const ContactButton = styled.button``;
+const AboutButton = styled.button``;
