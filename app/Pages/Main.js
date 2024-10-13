@@ -13,6 +13,7 @@ const Main = () => {
 
 export default Main
 
+const Buttons = styled.div``;
 const PortfolioButton = styled.button``;
 const ContactButton = styled.button``;
 const AboutButton = styled.button``;
