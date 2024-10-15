@@ -3,8 +3,8 @@ import styled from "styled-components"
 const Main = () => {
   return (
   <>
-    <h1>Welcome to my portfolio</h1>
-    <h2>Feel free to look around my portfolio !</h2>
+    <MainTitle>Welcome to my portfolio</MainTitle>
+    <SecondTitle>Feel free to look around my portfolio !</SecondTitle>
 
     <Buttons>
       <PortfolioButton>My Portfolio</PortfolioButton>
@@ -18,6 +18,9 @@ const Main = () => {
 }
 
 export default Main
+
+const MainTitle = styled.h1``;
+const SecondTitle = styled.h2``;
 
 const Buttons = styled.div``;
 const PortfolioButton = styled.button``;
