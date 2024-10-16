@@ -7,9 +7,9 @@ const Main = () => {
     <SecondTitle>Feel free to look around my portfolio !</SecondTitle>
 
     <Buttons>
-      <PortfolioButton>My Portfolio</PortfolioButton>
-      <ContactButton>Contact Me</ContactButton>
-      <AboutButton>About Me</AboutButton>
+        <PortfolioButton>My Portfolio</PortfolioButton>
+        <ContactButton>Contact Me</ContactButton>
+        <AboutButton>About Me</AboutButton>
     </Buttons>
 
 
