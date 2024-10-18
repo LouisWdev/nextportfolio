@@ -3,12 +3,16 @@ import styled from 'styled-components';
 
 const Portfolio = () => {
   return (
-    
-    <PortfolioContainer>
-        <h3>Project name</h3>   
-        <p>Project description</p>
-        <button>Go to</button>
-    </PortfolioContainer>
+    <>
+      <PortfolioTitle />
+      <SubText /> 
+
+      <PortfolioContainer>
+          <h3>Project name</h3>   
+          <p>Project description</p>
+          <button>Go to</button>
+      </PortfolioContainer>
+      </>
   )
 }
 
