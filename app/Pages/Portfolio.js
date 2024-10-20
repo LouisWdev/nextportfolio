@@ -5,8 +5,12 @@ const Portfolio = () => {
   return (
     <>
       <TitleContainer>
-       <PortfolioTitle />
-       <SubText /> 
+          <PortfolioTitle>
+            Welcome to the portfolio section
+          </PortfolioTitle>
+          <SubText>
+            
+          </SubText> 
       </TitleContainer>
 
       <PortfolioContainer>
