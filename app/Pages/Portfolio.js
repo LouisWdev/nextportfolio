@@ -16,6 +16,7 @@ const Portfolio = () => {
       <PortfolioContainer>
           <h3>Project name</h3>   
           <p>Project description</p>
+          <Image alt=""/>
           <button>Go to</button>
       </PortfolioContainer>
       </>
