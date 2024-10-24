@@ -1,13 +1,17 @@
+import styled from "styled-components"
+
 const navbar = () => {
   return (
-    <div className="flex text-center">
+    <NavbarContainer>
       <button>Home</button>
       
       <button>Contact</button>
       <button>Projects</button>
       <button>About Me</button>
-    </div>
+    </NavbarContainer>
   )
 }
 
 export default navbar
+
+const NavbarContainer = styled.div``;
