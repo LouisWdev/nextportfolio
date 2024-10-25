@@ -9,7 +9,7 @@ const Portfolio = () => {
             Welcome to the portfolio section
           </PortfolioTitle>
           <SubText>
-            Here you can view and interact with my portfolio 
+            Here you can view and interact with my portfolio projects
           </SubText> 
       </TitleContainer>
 
