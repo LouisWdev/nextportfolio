@@ -18,7 +18,9 @@ const Portfolio = () => {
           <p>Project description</p>
           <h4>Date start: </h4>
           <h4>Date finnished: </h4>
-          <Image alt=""/>
+           <ImageContainer>
+             <Image alt=""/>
+           </ImageContainer>
           <button>Go to</button>
       </PortfolioContainer>
       </>
@@ -32,3 +34,4 @@ const PortfolioContainer = styled.div``;
 const TitleContainer = style.div``;
 const PortfolioTitle = styled.h2``;
 const SubText = styled.h3``;
+const ImageContainer = styled.div``;
