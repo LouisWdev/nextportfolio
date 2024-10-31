@@ -22,5 +22,9 @@ export default Contact
 
 const MainContainer = styled.div``;
 const FormContainer = styled.div``;
+
+const FormButtonContainer = styled.div``;
+
 const FormButtonEmail = styled.div``;
 const FormButtonName = styled.div``;
+const FormButtonCompnay = styled.div``;
