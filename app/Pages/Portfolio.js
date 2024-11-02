@@ -39,3 +39,5 @@ const PortfolioTitle = styled.h2``;
 const SubText = styled.h3``;
 
 const ImageContainer = styled.div``;
+
+const GoToButton = styled.button``;
