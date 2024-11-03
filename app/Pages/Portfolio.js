@@ -21,7 +21,7 @@ const Portfolio = () => {
            <ImageContainer>
              <Image alt="" />
            </ImageContainer>
-          <button>Go to</button>
+          <GoToButton>Go to</GoToButton>
       </PortfolioContainer>
       </>
   )
