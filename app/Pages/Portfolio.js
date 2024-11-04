@@ -14,13 +14,13 @@ const Portfolio = () => {
       </TitleContainer>
 
       <PortfolioContainer>
+           <ImageContainer>
+             <Image alt="" />
+           </ImageContainer>
           <h3>Project name</h3>   
           <p>Project description</p>
           <h4>Date start: </h4>
           <h4>Date finnished: </h4>
-           <ImageContainer>
-             <Image alt="" />
-           </ImageContainer>
           <GoToButton>Go to</GoToButton>
       </PortfolioContainer>
       </>
