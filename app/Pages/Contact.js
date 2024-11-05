@@ -28,3 +28,4 @@ const FormButtonContainer = styled.div``;
 const FormButtonEmail = styled.div``;
 const FormButtonName = styled.div``;
 const FormButtonCompnay = styled.div``;
+const FormSubmitButton = styled.button``;
