@@ -9,7 +9,7 @@ const Contact = () => {
         <FormData>Name</FormData>
         <FormData>Company</FormData>
         
-        <button>Submit</button>
+        <FormSubmitButton>Submit</FormSubmitButton>
       </form>
      </FormContainer>
     </MainContainer>
