@@ -5,9 +5,9 @@ const Contact = () => {
     <MainContainer>   
      <FormContainer>
       <form>
-        <FormData>Email</FormData>
-        <FormData>Name</FormData>
-        <FormData>Company</FormData>
+        <FormButtonEmail><FormData>Email</FormData></FormButtonEmail>
+        <FormButtonName><FormData>Name</FormData></FormButtonName>
+        <FormButtonCompnay><FormData>Company</FormData></FormButtonCompnay>
         
         <FormSubmitButton>Submit</FormSubmitButton>
       </form>
@@ -22,8 +22,6 @@ export default Contact
 
 const MainContainer = styled.div``;
 const FormContainer = styled.div``;
-
-const FormButtonContainer = styled.div``;
 
 const FormButtonEmail = styled.div``;
 const FormButtonName = styled.div``;
